@@ -8,7 +8,7 @@ performed iteration on the list to obtained the correct values for the ranking f
 that is sorted list in order to obtain conclusion which is the most efficient algorithms among all of the three
 one.
 
-##Problem Statement
+## Problem Statement
 Modern web-based search engines use ranking functions to prioritize the order of documents shown to a user
 after a search. One way to rank different search results is to compile a list of results from different search
 engines, compare them, and compute results based on a weighted sum of rankings from each source. Of course,
