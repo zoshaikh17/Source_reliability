@@ -17,3 +17,7 @@ Once we have a set of rankings from each source of the same web pages, we need t
 difference in quality between the sources. As there is no objective source for the best rankings, it is necessary
 to judge each source against all other sources and iteratively calculate a quality score to be used as a weight
 for the ranking function.
+
+## Result 
+![result](https://user-images.githubusercontent.com/55362861/107859653-66e0dc80-6e00-11eb-9ab5-5122e386c5f4.PNG)
+
